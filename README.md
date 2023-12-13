@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineer.
 - 💞️ I'm looking for getting a Tech job
 - 📫 How to reach me: hungsct1702@gmail.com
-- And I'm just kidding eheh
+- And I'm just kidding :Đ
 
 <!---
 hungsct1702/hungsct1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
