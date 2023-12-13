@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charles (also known as qhung_72zz)
 - 👀 I’m interested in creating something on my own.
 - 🌱 I’m currently learning software engineer.
-- 💞️ I'm looking for a job with a large technology firm.
+- 💞️ I'm looking for getting a Tech job
 - 📫 How to reach me: hungsct1702@gmail.com
 - 
 
