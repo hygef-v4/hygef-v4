@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charles (also known as qhung_72zz)
+- 👋 Hi, I’m Hung
 - 👀 I’m interested in creating something on my own.
 - 🌱 I’m currently learning software engineer.
 - 💞️ I'm looking for getting a Tech job
