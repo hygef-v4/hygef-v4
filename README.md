@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hung
 - 👀 I’m interested in creating something on my own.
 - 🌱 I’m currently learning software engineer.
-- 💞️ I'm looking for getting a Tech job
+- 💞️ I'm looking for a Tech job
 - 📫 How to reach me: hungsct1702@gmail.com
 
 
