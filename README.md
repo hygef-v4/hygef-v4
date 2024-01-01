@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hung
-- 👀 I’m interested in creating something on my own.
+- 👀 I’m interested in learning something new.
 - 🌱 I’m currently learning software engineer.
 - 💞️ I'm looking forward to getting a Tech job
 - 📫 How to reach me: hungsct1702@gmail.com
