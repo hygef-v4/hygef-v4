@@ -18,7 +18,7 @@
 
 ---
 
-### 🐍 Git Contributions
+## 🐍 Git Contributions
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hungsct1702/hungsct1702/output/snake.svg" alt="Snake animation" />
