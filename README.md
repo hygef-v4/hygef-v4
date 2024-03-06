@@ -16,9 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungsct1702&show_icons=true&locale=en" alt="hungsct1702" /></p>
 <h3 align="left">Snake eating my Github contributions:</h3>
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/hungsct1702/hungsct1702/output/snake.svg" alt="Snake animation" />
 
 ###
