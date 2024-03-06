@@ -15,10 +15,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungsct1702&show_icons=true&locale=en&layout=compact" alt="hungsct1702" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungsct1702&show_icons=true&locale=en" alt="hungsct1702" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungsct1702" alt="hungsct1702" /></a> </p>
 <h3 align="left">Snake eating my Github contributions:</h3>
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/hungsct1702/hungsct1702/output/snake.svg" alt="Snake animation" />
 
 ###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungsct1702" alt="hungsct1702" /></a> </p>
+
