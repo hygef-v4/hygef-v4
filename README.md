@@ -1,12 +1,6 @@
 ![poptart1redrainbowfix_1](https://github.com/hungsct1702/hungsct1702/assets/138696615/bd2ccdfe-0944-4678-9773-1e1ee3dd24d9)
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate software engineer student from Vietnam</h3>
-- 🔭 I’m interested in learning **something new.**
-
-- 💞️ I'm looking forward to getting a **Tech job**
-
-- 📫 How to reach me **hungsct1702@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
