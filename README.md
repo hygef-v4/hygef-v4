@@ -14,7 +14,7 @@ ___
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hungsct1702&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hungsct1702&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ___
-## Git Contributions
+### 🐍 Git Contributions
 <img src="https://raw.githubusercontent.com/hungsct1702/hungsct1702/output/snake.svg" alt="Snake animation" />
 
 ---
@@ -23,12 +23,8 @@ ___
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-[![](https://visitcount.itsvg.in/api?id=hungsct1702&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 ## 💰 Buy me a Coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hungsct1702) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=hungsct1702&icon=0&color=0)](https://visitcount.itsvg.in)
