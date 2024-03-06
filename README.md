@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate software engineer student from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/hungsct1702/hungsct1702/assets/138696615/e2902d86-49be-4435-bf45-b6b259d9e494"/>
-![giphy (2)](https://github.com/hungsct1702/hungsct1702/assets/138696615/e2902d86-49be-4435-bf45-b6b259d9e494)
+
 
 
 
