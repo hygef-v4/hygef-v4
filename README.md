@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate software engineer student from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448000109187170305"/>
+![giphy (2)](https://github.com/hungsct1702/hungsct1702/assets/138696615/e2902d86-49be-4435-bf45-b6b259d9e494)
 
 
 
@@ -27,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungsct1702&show_icons=true&locale=en&layout=compact" alt="hungsct1702" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungsct1702&show_icons=true&locale=en" alt="hungsct1702" /></p>
+
