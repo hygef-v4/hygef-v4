@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **hungsct1702@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungsct1702" alt="hungsct1702" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hungsct1702&show_icons=true&locale=en&layout=compact" alt="hungsct1702" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hungsct1702&show_icons=true&locale=en" alt="hungsct1702" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungsct1702" alt="hungsct1702" /></a> </p>
