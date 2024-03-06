@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate software engineer student from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA"](https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA)>
+<img align="right" alt="Coding" width="400" src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448000109187170305"/>
 
 
 
