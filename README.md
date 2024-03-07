@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate software engineer student from Vietnam</h3>
 
-### Now Playing — Spotify 🎧
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=31hqzd7myli3hipb2aozjsmc2jom&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=31hqzd7myli3hipb2aozjsmc2jom&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2aac2a&bar_color_cover=true"/>
-</a>
-</p>
 
 
 ## 🌐 Socials:
