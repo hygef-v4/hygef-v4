@@ -1,6 +1,6 @@
 
- <h1 align="center">Hi 👋, I'm Hung</h1> 
- <h3 align="center"> A software engineer student </h3> 
+ <h1 align="center">Hi 👋,Welcome to my github profile </h1> 
+ <h3 align="center"> There's nothing there lol </h3> 
 
 
 
