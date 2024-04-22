@@ -8,16 +8,14 @@ ___
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/qhung72zz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hungsct1702) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/simp725) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23114801) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@imhung1702) 
 ___
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hungsct1702&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-___
 ### 🐍 Git Contributions
 <img src="https://raw.githubusercontent.com/hungsct1702/hungsct1702/output/snake.svg" alt="Snake animation" />
 
 
 
 
----
- [![](https://visitcount.itsvg.in/api?id=hungsct1702&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
