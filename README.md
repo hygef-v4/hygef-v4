@@ -10,7 +10,7 @@ ___
 ___ 
 
 ### 🐍 Git Contributions
-<img src="https://raw.githubusercontent.com/hungsct1702/hungsct1702/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hygef-v4/hygef-v4/output/snake.svg" alt="Snake animation" />
 
 
  <!--![LeetCode Stats](https://leetcode.card.workers.dev/hungsct1702?theme=default&font=baloo&extension=null) --->
