@@ -1,9 +1,5 @@
 
 # 💻 Tech Stack:
-Here’s your **updated and reordered skill badge list**, starting from the most important and relevant to your software development and project stack. I've also added **Microsoft Azure** as requested:
-
----
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
