@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Hung  
 
 💻 **Full-stack Developer** | 🛡️ **Cybersecurity Enthusiast & Ethical Hacker** | 📊 **Problem Solver**  
-I design and build scalable, secure web applications with clean, maintainable code.  
-
+Building scalable, secure web applications with clean, maintainable code.
 
 ## 💻 Tech Stack
 
