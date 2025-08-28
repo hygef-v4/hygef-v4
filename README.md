@@ -2,7 +2,7 @@
 
 💻 **Full-stack Developer** | 🛡️ **Cybersecurity Enthusiast & Ethical Hacker** | 🎨 **VFX Artist**
 
-Building scalable, secure web applications with clean, maintainable code.
+Building scalable, secure web applications with clean, maintainable code and love creating stunning visual effects..
 
 ## 💻 Tech Stack
 
