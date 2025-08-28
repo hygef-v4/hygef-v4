@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hung  
 
-💻 **Full-stack Developer** | 🛡️ **Cybersecurity Enthusiast & Ethical Hacker** | 📊 **Problem Solver**  
+💻 **Full-stack Developer** | 🛡️ **Cybersecurity Enthusiast & Ethical Hacker** | 🎨 **VFX Artist**
+
 Building scalable, secure web applications with clean, maintainable code.
 
 ## 💻 Tech Stack
@@ -35,10 +36,11 @@ Building scalable, secure web applications with clean, maintainable code.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![dnSpy](https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![JADX](https://img.shields.io/badge/JADX-FFB400?style=for-the-badge&logo=java&logoColor=black)     
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
