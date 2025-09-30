@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.dev/api/761229776227794964?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" alt="Discord Status" />
+ <a href="https://discord.com/users/761229776227794964"><img src="https://lanyard.kyrie25.dev/api/761229776227794964?animatedDecoration=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideDecoration=false&showDisplayName=false&hideClan=false&hideProfile=false&hideActivity=false&hideDiscrim=false&imgStyle=square&showBanner=animated&imgBorderRadius=15&waveColor=7289DA&waveSpotifyColor=1DB954&borderRadius=18&bannerFilter=brightness(0.8)%20blur(2px)" /></a>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hqzd7myli3hipb2aozjsmc2jom&unique=true&count=3" height="200" alt="Spotify Recently Played" />
 </div>
 
