@@ -3,21 +3,13 @@
 </p>
 
 <div align="center">
-  <a href="">
-    <img src="https://lanyard.kyrie25.dev/api/761229776227794964?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" />
-  </a>  
-  <a href="">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hqzd7myli3hipb2aozjsmc2jom&unique=true&count=3" height="200" />
-  </a>
+  <img src="https://lanyard.kyrie25.dev/api/761229776227794964?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" alt="Discord Status" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hqzd7myli3hipb2aozjsmc2jom&unique=true&count=3" height="200" alt="Spotify Recently Played" />
 </div>
 
 <div align="center">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=hygef-v4&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react&hide_border=true" width="400" />
-  </a>
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hygef-v4&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true&locale=ja" height="167" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hygef-v4&show_icons=true&theme=react&hide_border=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hygef-v4&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true&locale=ja" height="167" alt="Top Languages" />
 </div>
 
 ---
@@ -32,4 +24,3 @@
 <!-- ## 🧮 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hungsct1702?theme=dark&font=Molengo&ext=heatmap)  
 -->
-
