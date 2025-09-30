@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/@hygef-v4?name=hygef-v4&theme=original-new&padding=7&offset=4&align=center&scale=1&pixelated=1&darkmode=1&num=1942" alt="Profile Views" />
+  <img src="https://count.getloli.com/@hygef-v4?name=hygef-v4&theme=original-new&padding=7&offset=4&align=center&scale=1&pixelated=1&darkmode=1" alt="Profile Views" />
 </p>
 
 <div align="center">
