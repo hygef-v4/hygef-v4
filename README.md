@@ -4,13 +4,13 @@
 
 <div align="center">
  <a href="https://discord.com/users/761229776227794964"><img src="https://lanyard.kyrie25.dev/api/761229776227794964?animatedDecoration=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideDecoration=false&showDisplayName=false&hideClan=false&hideProfile=false&hideActivity=false&hideDiscrim=false&imgStyle=square&showBanner=animated&imgBorderRadius=15&waveColor=7289DA&waveSpotifyColor=1DB954&borderRadius=18&bannerFilter=brightness(0.8)%20blur(2px)" /></a>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hqzd7myli3hipb2aozjsmc2jom&unique=true&count=3" height="200" alt="Spotify Recently Played" />
-</div>
+  <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hqzd7myli3hipb2aozjsmc2jom&unique=true&count=3" height="200" alt="Spotify Recently Played" />
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hygef-v4&show_icons=true&theme=react&hide_border=true" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hygef-v4&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true&locale=ja" height="167" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
