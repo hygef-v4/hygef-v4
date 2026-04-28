@@ -16,10 +16,8 @@ I enjoy building scalable systems, exploring how things work under the hood, and
 </p>
 
 ---
-
-## 📊 Activity
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ---
